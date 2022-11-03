@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Zachee+Ishimwe+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
-<h3 align="center"> I'm a software developer!</h3>
+<h3 align="center"> I'm a software Engineer!</h3>
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p align="center"> Currently, I'm learning remote software development from <a href="https://www.microverse.org/">Microverse</a>. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<p align="center"> Currently, I'm learning remote software engineering from <a href="https://www.alxafrica.com/">Holberton school/ALX</a>. I spend most of my time write codes to enhance my programming skills.</p>
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
 
