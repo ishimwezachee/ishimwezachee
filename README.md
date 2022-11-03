@@ -25,7 +25,7 @@
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachee-ishimwe-ab952a119/)     [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zacheeishimwe@gmail.com)
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:What The future has no limit !
+- ⚡ Fun fact:The future has no limit !
 
 
 <br>
